@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "充话费页面示例模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "充话费页面的设计与实现"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "充话费"
+    }
+  ]
+}
